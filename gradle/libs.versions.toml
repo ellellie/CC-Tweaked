@@ -47,7 +47,7 @@ rei = "16.0.729"
 sodium-fabric = "mc1.21-0.6.0-beta.1-fabric"
 sodium-forge = "mc1.21-0.6.0-beta.1-neoforge"
 mixinExtra = "0.3.5"
-create-forge = "0.5.1.f-33"
+create-forge = "6.0.0-9"
 create-fabric = "0.5.1-f-build.1467+mc1.20.1"
 
 # Testing
